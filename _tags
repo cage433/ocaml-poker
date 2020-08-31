@@ -1,0 +1,5 @@
+<src/**>: include
+<src/**>: package(ounit2)
+<src/**>: package(batteries)
+<src/**>: package(owl)
+
